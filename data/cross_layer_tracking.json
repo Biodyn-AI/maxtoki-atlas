@@ -1,9 +1,170 @@
 {
   "config": {
-    "threshold": 0.7
+    "threshold": 0.7,
+    "model": "MaxToki-217M"
   },
-  "adjacent_persistence": [],
-  "long_range_persistence": [],
-  "lifecycle_summary": {},
+  "adjacent_persistence": [
+    {
+      "from_layer": 0,
+      "to_layer": 1,
+      "n_matches": 0,
+      "persistence_rate": 0.0,
+      "mean_match_cosine": 0,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 1,
+      "to_layer": 2,
+      "n_matches": 8,
+      "persistence_rate": 0.0016,
+      "mean_match_cosine": 0.732,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 2,
+      "to_layer": 3,
+      "n_matches": 45,
+      "persistence_rate": 0.0091,
+      "mean_match_cosine": 0.9072,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 3,
+      "to_layer": 4,
+      "n_matches": 52,
+      "persistence_rate": 0.0106,
+      "mean_match_cosine": 0.8912,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 4,
+      "to_layer": 5,
+      "n_matches": 226,
+      "persistence_rate": 0.0459,
+      "mean_match_cosine": 0.8021,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 5,
+      "to_layer": 6,
+      "n_matches": 353,
+      "persistence_rate": 0.0716,
+      "mean_match_cosine": 0.8149,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 6,
+      "to_layer": 7,
+      "n_matches": 1059,
+      "persistence_rate": 0.2149,
+      "mean_match_cosine": 0.8118,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 7,
+      "to_layer": 8,
+      "n_matches": 790,
+      "persistence_rate": 0.1603,
+      "mean_match_cosine": 0.8091,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 8,
+      "to_layer": 9,
+      "n_matches": 887,
+      "persistence_rate": 0.18,
+      "mean_match_cosine": 0.8079,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 9,
+      "to_layer": 10,
+      "n_matches": 483,
+      "persistence_rate": 0.098,
+      "mean_match_cosine": 0.8065,
+      "n_source_alive": 4928
+    },
+    {
+      "from_layer": 10,
+      "to_layer": 11,
+      "n_matches": 320,
+      "persistence_rate": 0.0649,
+      "mean_match_cosine": 0.787,
+      "n_source_alive": 4928
+    }
+  ],
+  "long_range_persistence": [
+    {
+      "from_layer": 0,
+      "to_layer": 1,
+      "n_matches": 0,
+      "persistence_rate": 0.0
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 2,
+      "n_matches": 18,
+      "persistence_rate": 0.0037
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 3,
+      "n_matches": 19,
+      "persistence_rate": 0.0039
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 4,
+      "n_matches": 40,
+      "persistence_rate": 0.0081
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 5,
+      "n_matches": 125,
+      "persistence_rate": 0.0254
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 6,
+      "n_matches": 330,
+      "persistence_rate": 0.067
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 7,
+      "n_matches": 423,
+      "persistence_rate": 0.0858
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 8,
+      "n_matches": 654,
+      "persistence_rate": 0.1327
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 9,
+      "n_matches": 444,
+      "persistence_rate": 0.0901
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 10,
+      "n_matches": 247,
+      "persistence_rate": 0.0501
+    },
+    {
+      "from_layer": 0,
+      "to_layer": 11,
+      "n_matches": 311,
+      "persistence_rate": 0.0631
+    }
+  ],
+  "lifecycle_summary": {
+    "transient": 5,
+    "moderate": 5,
+    "persistent": 1
+  },
   "persistence_vs_biology": {}
 }
