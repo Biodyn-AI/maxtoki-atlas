@@ -1,0 +1,812 @@
+{
+  "summary": {
+    "detection_rate": 0.04,
+    "n_detected": 4,
+    "n_targets": 100,
+    "n_tf_specific": 0,
+    "n_tfs": 48,
+    "tf_specificity_rate": 0.0
+  },
+  "targets": [
+    {
+      "gene": "AATF",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATF4",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATF5",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "BARD1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "BDP1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "BRCA1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "BRCA2",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "BRIP1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "BTF3",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "CDC5L",
+      "tf": true,
+      "nk": 20,
+      "nr": 1,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "CEBPZ",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "CHD4",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "COPS5",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "DDX5",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "DMAP1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "DNMT1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "DR1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "DRAP1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "E2F6",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "E4F1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ECD",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ELL",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ENO1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ERCC2",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "FOXL2",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "GATA1",
+      "tf": true,
+      "nk": 20,
+      "nr": 5,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "GTF2A1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "GTF2B",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "GTF2F1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "GTF3A",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "HDAC3",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "HINFP",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "HMGA1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "HNRNPR",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "HOXC10",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ILF2",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ILF3",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MAX",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MCM2",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MCM5",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MED1",
+      "tf": true,
+      "nk": 20,
+      "nr": 3,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MYBBP1A",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MYBL2",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "MZF1",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "NELFB",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "NELFCD",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "NFRKB",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "PDCD11",
+      "tf": true,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AAAS",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AAMP",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AARS",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AARS2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AASDHPPT",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ABCB7",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ABCE1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ABHD11",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ABHD17A",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ABT1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACD",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACTL6A",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACTR1B",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACTR2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACTR6",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACTR8",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ACTR10",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ADAT2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ADSL",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AHCY",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AIFM1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AKIRIN2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ALDOA",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ALG1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ALG2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ALG11",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ALG13",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ALG14",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANAPC4",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANAPC5",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANAPC11",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANAPC13",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANKLE2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANKRD11",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANKRD49",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANKS6",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ANLN",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AP2S1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "AQR",
+      "tf": false,
+      "nk": 20,
+      "nr": 2,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARF4",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARGLU1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARIH1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARL2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARL4D",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARMC6",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ARPC4",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ASF1B",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATL2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATP1A1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATP6AP1",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATP6AP2",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    },
+    {
+      "gene": "ATP6V0B",
+      "tf": false,
+      "nk": 20,
+      "nr": 0,
+      "ns": 0,
+      "top": []
+    }
+  ]
+}
