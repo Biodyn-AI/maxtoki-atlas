@@ -17,5 +17,8 @@
       "persistence_rate": 0.0053,
       "mean_match_cosine": 0.75
     }
-  ]
+  ],
+  "long_range_persistence": [],
+  "lifecycle_summary": {},
+  "persistence_vs_biology": {}
 }

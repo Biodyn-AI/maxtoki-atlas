@@ -5,7 +5,6 @@
   "total_annotated": 8396,
   "total_enrichments": 71486,
   "n_layers": 3,
-  "features_per_layer": 4928,
   "d_model": 1232,
   "d_sae": 4928,
   "k": 32,
@@ -64,5 +63,8 @@
       "variance_explained": 0.8276,
       "mean_feature_cosine": 0.0606
     }
-  ]
+  ],
+  "total_modules": 30,
+  "total_novel": 12208,
+  "n_features_per_layer": 4928
 }
