@@ -1,9 +1,8 @@
 {
+  "summary": {},
+  "features": null,
+  "targets": null,
   "L00_L05": {
-    "summary": {},
-    "deps": []
-  },
-  "L05_L11": {
     "summary": {},
     "deps": []
   }

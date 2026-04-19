@@ -2,22 +2,7 @@
   "config": {
     "threshold": 0.7
   },
-  "adjacent_persistence": [
-    {
-      "from_layer": 0,
-      "to_layer": 5,
-      "n_matches": 125,
-      "persistence_rate": 0.0254,
-      "mean_match_cosine": 0.75
-    },
-    {
-      "from_layer": 5,
-      "to_layer": 11,
-      "n_matches": 26,
-      "persistence_rate": 0.0053,
-      "mean_match_cosine": 0.75
-    }
-  ],
+  "adjacent_persistence": [],
   "long_range_persistence": [],
   "lifecycle_summary": {},
   "persistence_vs_biology": {}
