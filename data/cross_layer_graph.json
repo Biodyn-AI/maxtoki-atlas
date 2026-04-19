@@ -1,18 +1,10 @@
 {
   "L00_L05": {
-    "summary": {
-      "n_connected": 0,
-      "mean_max_pmi": 0,
-      "n_highways": 0
-    },
+    "summary": {},
     "deps": []
   },
   "L05_L11": {
-    "summary": {
-      "n_connected": 0,
-      "mean_max_pmi": 0,
-      "n_highways": 0
-    },
+    "summary": {},
     "deps": []
   }
 }

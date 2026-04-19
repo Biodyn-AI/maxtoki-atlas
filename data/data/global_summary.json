@@ -1,0 +1,68 @@
+{
+  "model": "MaxToki-217M",
+  "total_features": 14784,
+  "total_alive": 12214,
+  "total_annotated": 8396,
+  "total_enrichments": 71486,
+  "n_layers": 3,
+  "features_per_layer": 4928,
+  "d_model": 1232,
+  "d_sae": 4928,
+  "k": 32,
+  "layers": [
+    {
+      "layer": 0,
+      "alive": 2498,
+      "dead": 2430,
+      "annotated": 2016,
+      "annotation_rate": 0.807,
+      "n_modules": 10,
+      "n_svd_aligned": 0,
+      "n_novel": 2498,
+      "ontology_counts": {
+        "Reactome": 11453,
+        "GO_BP": 9005,
+        "KEGG": 1993,
+        "TRRUST_TF": 623
+      },
+      "variance_explained": 0.6934,
+      "mean_feature_cosine": 0.0247
+    },
+    {
+      "layer": 5,
+      "alive": 4903,
+      "dead": 25,
+      "annotated": 3340,
+      "annotation_rate": 0.6778,
+      "n_modules": 10,
+      "n_svd_aligned": 5,
+      "n_novel": 4898,
+      "ontology_counts": {
+        "Reactome": 12299,
+        "GO_BP": 11838,
+        "KEGG": 2683,
+        "TRRUST_TF": 838
+      },
+      "variance_explained": 0.8894,
+      "mean_feature_cosine": 0.0367
+    },
+    {
+      "layer": 11,
+      "alive": 4813,
+      "dead": 115,
+      "annotated": 3040,
+      "annotation_rate": 0.6174,
+      "n_modules": 10,
+      "n_svd_aligned": 1,
+      "n_novel": 4812,
+      "ontology_counts": {
+        "GO_BP": 8835,
+        "Reactome": 8832,
+        "KEGG": 2171,
+        "TRRUST_TF": 916
+      },
+      "variance_explained": 0.8276,
+      "mean_feature_cosine": 0.0606
+    }
+  ]
+}
